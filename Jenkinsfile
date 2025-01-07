@@ -10,7 +10,7 @@ pipeline {
     stages {
         stage('Checkout Code') {
             steps {
-                git branch: 'main', url: 'https://github.com/NainaGhosh01/nodejs-ci-cd-pipeline.git'
+                git branch: 'main', url: 'https://github.com/khandu7498/nodejs-ci-cd-pipeline.git'
             }
         }
 
