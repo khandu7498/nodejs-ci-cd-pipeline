@@ -36,8 +36,8 @@ o	Applies k8s/deployment.yaml and k8s/service.yaml to deploy the application.
 •	
 How to use
 1.	Fork or Clone the Repository:
-git clone https://github.com/khandu7498/nodejs-ci-cd-pipeline.git
-cd nodejs-ci-cd-pipeline
+   git clone https://github.com/khandu7498/nodejs-ci-cd-pipeline.git
+    cd nodejs-ci-cd-pipeline
 2.	Set Up Jenkins:
 •	Create a Jenkins pipeline job.
 •	Link the repository to the pipeline.
